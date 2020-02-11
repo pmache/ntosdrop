@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386
+END
+table.stb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/table.stb
+END
+kernlini.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/kernlini.c
+END
+emxcptn.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/emxcptn.asm
+END
+i386pcr.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/i386pcr.asm
+END
+services.tab
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/services.tab
+END
+abios.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/abios.h
+END
+ldtsup.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/ldtsup.c
+END
+ctxswap.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/ctxswap.asm
+END
+timindex.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/timindex.asm
+END
+trapc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/trapc.c
+END
+mi.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/mi.inc
+END
+abiosc.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/abiosc.c
+END
+intsup.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/intsup.asm
+END
+biosc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/biosc.c
+END
+services.stb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/services.stb
+END
+instemul.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/instemul.asm
+END
+kix86.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/kix86.h
+END
+apcuser.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/apcuser.c
+END
+iopm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/iopm.c
+END
+cpu.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/cpu.inc
+END
+pat.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/pat.c
+END
+emv86.asm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/emv86.asm
+END
+thredini.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/thredini.c
+END
+threadbg.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/threadbg.asm
+END
+mtrr.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/mtrr.c
+END
+intobj.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/intobj.c
+END
+pat.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/pat.h
+END
+kimacro.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/kimacro.inc
+END
+mtrr.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/mtrr.h
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/misc.c
+END
+abiosa.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/abiosa.asm
+END
+sysstubs.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/sysstubs.asm
+END
+mtrramd.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/mtrramd.c
+END
+flushtb.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/flushtb.c
+END
+exceptn.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/exceptn.c
+END
+allproc.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/allproc.c
+END
+gdtsup.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/gdtsup.c
+END
+i386init.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/i386init.c
+END
+ldtsup2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/ldtsup2.asm
+END
+clockint.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/clockint.asm
+END
+systable.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/systable.asm
+END
+mpipia.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/mpipia.asm
+END
+largepag.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/largepag.c
+END
+spindbg.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/spindbg.asm
+END
+zero.asm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/zero.asm
+END
+cpu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/cpu.asm
+END
+procstat.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/procstat.asm
+END
+flush.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/flush.c
+END
+spinlock.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/spinlock.asm
+END
+trap.asm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/trap.asm
+END
+callback.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/callback.c
+END
+int.asm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/int.asm
+END
+callout.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/callout.asm
+END
+newsysbg.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/i386/newsysbg.asm
+END

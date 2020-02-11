@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps
+END
+psopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/psopen.c
+END
+psdelete.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/psdelete.c
+END
+pshelper.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/pshelper.c
+END
+psp.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/psp.h
+END
+psinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/psinit.c
+END
+psquota.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/psquota.c
+END
+psspnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/psspnd.c
+END
+psjob.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/psjob.c
+END
+pscid.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/pscid.c
+END
+create.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/create.c
+END
+psimpers.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/psimpers.c
+END
+security.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/security.c
+END
+psctx.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/psctx.c
+END
+psenum.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/psenum.c
+END
+kulookup.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/kulookup.c
+END
+psquery.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/psquery.c
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/i386
+END
+pae.asm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/i386/pae.asm
+END
+procpae.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/i386/procpae.c
+END
+procx86.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/i386/procx86.c
+END
+init386.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/i386/init386.c
+END
+setmodfy.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/i386/setmodfy.c
+END
+data386.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/i386/data386.c
+END
+mi386.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/i386/mi386.h
+END
+paesup.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/i386/paesup.c
+END

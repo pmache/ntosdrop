@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/cache
+END
+lazyrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/cache/lazyrite.c
+END
+cachesub.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/cache/cachesub.c
+END
+fssup.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/cache/fssup.c
+END
+vacbsup.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/cache/vacbsup.c
+END
+cc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/cache/cc.h
+END
+cachedat.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/cache/cachedat.c
+END
+pinsup.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/cache/pinsup.c
+END
+ccperf.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/cache/ccperf.c
+END
+copysup.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/cache/copysup.c
+END
+mdlsup.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/cache/mdlsup.c
+END
+logsup.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/cache/logsup.c
+END

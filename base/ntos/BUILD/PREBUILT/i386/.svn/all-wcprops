@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/7/trunk/kernel/base/ntos/BUILD/PREBUILT/i386
+END
+NTOSKRNL.res
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/BUILD/PREBUILT/i386/NTOSKRNL.res
+END
+SDBAPINT.lib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/BUILD/PREBUILT/i386/SDBAPINT.lib
+END
+BOOTVID.lib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/BUILD/PREBUILT/i386/BOOTVID.lib
+END
+ntosarch.lib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/BUILD/PREBUILT/i386/ntosarch.lib
+END
+HAL.lib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/BUILD/PREBUILT/i386/HAL.lib
+END
+STUB512.com
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/BUILD/PREBUILT/i386/STUB512.com
+END
+ntoswrk.lib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ntosdropce/!svn/ver/7/trunk/kernel/base/ntos/BUILD/PREBUILT/i386/ntoswrk.lib
+END
+KDCOM.lib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/BUILD/PREBUILT/i386/KDCOM.lib
+END

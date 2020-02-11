@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm
+END
+pagfault.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/pagfault.c
+END
+forksup.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/forksup.c
+END
+flushsec.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/flushsec.c
+END
+creasect.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/creasect.c
+END
+protect.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/protect.c
+END
+deleteva.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/deleteva.c
+END
+shutdown.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/shutdown.c
+END
+pfnlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/pfnlist.c
+END
+session.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/session.c
+END
+physical.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/physical.c
+END
+acceschk.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/acceschk.c
+END
+sessload.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/sessload.c
+END
+mmquota.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/mmquota.c
+END
+modwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/modwrite.c
+END
+mi.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/mi.h
+END
+lockvm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/lockvm.c
+END
+readwrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/readwrt.c
+END
+freevm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/freevm.c
+END
+extsect.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/extsect.c
+END
+mapcache.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/mapcache.c
+END
+iosup.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/iosup.c
+END
+sectsup.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/sectsup.c
+END
+umapview.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/umapview.c
+END
+allocvm.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/allocvm.c
+END
+mmsup.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/mmsup.c
+END
+flushbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/flushbuf.c
+END
+hypermap.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/hypermap.c
+END
+mminit.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/mminit.c
+END
+sysload.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/sysload.c
+END
+wrtwatch.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/wrtwatch.c
+END
+zeropage.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/zeropage.c
+END
+vadtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/vadtree.c
+END
+procsup.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/procsup.c
+END
+dmpaddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/dmpaddr.c
+END
+wstree.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/wstree.c
+END
+wslist.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/wslist.c
+END
+addrsup.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/addrsup.c
+END
+queryvm.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/queryvm.c
+END
+miglobal.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/miglobal.c
+END
+sysptes.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/sysptes.c
+END
+wsmanage.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/wsmanage.c
+END
+mapview.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/mapview.c
+END
+allocpag.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/allocpag.c
+END
+mmfault.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/mmfault.c
+END
+buildmdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/buildmdl.c
+END
+querysec.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/querysec.c
+END
+wrtfault.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/wrtfault.c
+END
+pfndec.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/mm/pfndec.c
+END

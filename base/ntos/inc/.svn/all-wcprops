@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/ntosdropce/!svn/ver/13/trunk/kernel/base/ntos/inc
+END
+dockintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/dockintf.h
+END
+init.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ntosdropce/!svn/ver/7/trunk/kernel/base/ntos/inc/init.h
+END
+se.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/se.h
+END
+wmi.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/wmi.h
+END
+ob.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/ob.h
+END
+hal.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/hal.h
+END
+cmdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/cmdata.h
+END
+verifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/verifier.h
+END
+kd.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/kd.h
+END
+ke.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/ke.h
+END
+hivedata.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/hivedata.h
+END
+ntosdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/ntosdef.h
+END
+stktrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/stktrace.h
+END
+pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/pool.h
+END
+lpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/lpc.h
+END
+mm.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/mm.h
+END
+irqli386.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/irqli386.inc
+END
+intrlk.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/intrlk.h
+END
+dbgk.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/dbgk.h
+END
+exlevels.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/exlevels.h
+END
+exboosts.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/exboosts.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/io.h
+END
+fastsys.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/fastsys.inc
+END
+i386.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/i386.h
+END
+vdmntos.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/vdmntos.h
+END
+perf.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/perf.h
+END
+cm.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/cm.h
+END
+ntos.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/13/trunk/kernel/base/ntos/inc/ntos.h
+END
+kddll.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/kddll.h
+END
+kx.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/kx.h
+END
+procpowr.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/procpowr.h
+END
+pnp.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/pnp.h
+END
+ex.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/ex.h
+END
+v86emul.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/v86emul.h
+END
+amd64.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/amd64.h
+END
+mac386.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/mac386.inc
+END
+lfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/lfs.h
+END
+fsrtl.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/fsrtl.h
+END
+po.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/po.h
+END
+em387.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/em387.inc
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/13/trunk/kernel/base/ntos/inc/config.h
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/cache.h
+END
+ps.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/ps.h
+END
+cpyuchr.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/cpyuchr.h
+END
+smbios.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/inc/smbios.h
+END

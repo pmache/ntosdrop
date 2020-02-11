@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ntosdropce/!svn/ver/7/trunk/kernel/base/ntos/BUILD
+END
+WARNING.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/BUILD/WARNING.h
+END
+makefile.build
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/7/trunk/kernel/base/ntos/BUILD/makefile.build
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/6/trunk/kernel/base/ntos/BUILD/makefile
+END

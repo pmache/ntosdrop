@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/time.c
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/error.h
+END
+peb.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/peb.c
+END
+atom.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/atom.c
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/string.c
+END
+ntrtlp.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/ntrtlp.h
+END
+imagedir.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/imagedir.c
+END
+tracedbp.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/tracedbp.h
+END
+prefix.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/prefix.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/debug.c
+END
+acledit.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/acledit.c
+END
+rtldata.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/rtldata.c
+END
+excptdbg.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/excptdbg.c
+END
+generr.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/generr.c
+END
+regutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/regutil.c
+END
+avltable.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/avltable.c
+END
+add2strw.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/add2strw.c
+END
+str2addw.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/str2addw.c
+END
+sertl.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/sertl.c
+END
+add2strt.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/add2strt.h
+END
+str2addt.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/str2addt.h
+END
+byteswap.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/byteswap.c
+END
+stktrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/stktrace.c
+END
+nlsxlat.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/nlsxlat.c
+END
+cnvint.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/cnvint.c
+END
+sysvol.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/sysvol.c
+END
+splay.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/splay.c
+END
+ldrrsrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/ldrrsrc.c
+END
+mp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/mp
+END
+bitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/bitmap.c
+END
+ldrreloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/ldrreloc.c
+END
+intbits.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/intbits.c
+END
+environ.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/environ.c
+END
+nls.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/nls.c
+END
+rtlassig.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/rtlassig.c
+END
+eballoc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/eballoc.c
+END
+lookup.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/lookup.c
+END
+rtlexec.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/rtlexec.c
+END
+gentable.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/gentable.c
+END
+add2stra.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/add2stra.c
+END
+str2adda.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/str2adda.c
+END
+tracedb.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/tracedb.c
+END
+rtlnthdr.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/rtlnthdr.c
+END
+assert.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/assert.c
+END
+message.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/message.c
+END
+pctohdr.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/pctohdr.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/error.c
+END
+guid.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/guid.c
+END

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi
+END
+mca.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/mca.c
+END
+chunk.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/chunk.c
+END
+ds.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/ds.c
+END
+tracep.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/tracep.h
+END
+provider.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/provider.c
+END
+dataprov.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/dataprov.c
+END
+wmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/wmi.c
+END
+mcaevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/mcaevent.h
+END
+traceapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/traceapi.c
+END
+alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/alloc.c
+END
+consumer.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/consumer.c
+END
+secure.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/secure.c
+END
+api.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/api.c
+END
+globalog.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/globalog.c
+END
+enabdisa.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/enabdisa.c
+END
+wmidata.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/wmidata.c
+END
+tracelog.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/tracelog.c
+END
+wmiumds.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/wmiumds.h
+END
+wmikmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/wmikmp.h
+END
+register.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/register.c
+END
+callouts.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/callouts.c
+END
+smbios.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/smbios.c
+END
+notify.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/notify.c
+END
+tracesup.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/wmi/tracesup.c
+END

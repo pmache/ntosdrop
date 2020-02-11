@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/fstub
+END
+drivesup.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/fstub/drivesup.c
+END
+drivesup.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/fstub/drivesup.h
+END
+fstub.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/fstub/fstub.h
+END
+haldisp.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/fstub/haldisp.h
+END

@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se
+END
+accessck.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/accessck.c
+END
+tokenadj.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/tokenadj.c
+END
+tokenopn.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/tokenopn.c
+END
+rmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/rmp.h
+END
+pch.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/pch.h
+END
+tokenp.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/tokenp.h
+END
+adtvars.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/adtvars.c
+END
+seclient.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/seclient.c
+END
+sep.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/sep.c
+END
+tokenqry.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/tokenqry.c
+END
+seastate.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/seastate.c
+END
+seinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/seinit.c
+END
+sep.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/sep.h
+END
+adtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/adtp.h
+END
+tokendup.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/tokendup.c
+END
+rmvars.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/rmvars.c
+END
+subject.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/subject.c
+END
+adtutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/adtutil.c
+END
+semethod.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/semethod.c
+END
+adtlog.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/adtlog.c
+END
+privileg.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/privileg.c
+END
+rmmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/rmmain.c
+END
+seglobal.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/seglobal.c
+END
+adt.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/adt.h
+END
+adtutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/adtutil.h
+END
+token.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/token.c
+END
+sepaudit.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/sepaudit.c
+END
+rmaudit.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/rmaudit.c
+END
+seassign.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/seassign.c
+END
+adtinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/adtinit.c
+END
+capture.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/capture.c
+END
+rmlogon.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/rmlogon.c
+END
+seaudit.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/seaudit.c
+END
+tokenset.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/se/tokenset.c
+END

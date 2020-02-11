@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER
+END
+vfgeneric.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfgeneric.h
+END
+vffilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vffilter.h
+END
+halverifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/halverifier.h
+END
+vfmajor.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfmajor.h
+END
+vfpragma.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfpragma.h
+END
+vfzwapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfzwapi.h
+END
+vfirplog.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfirplog.h
+END
+vfdevobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfdevobj.h
+END
+vfutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfutil.h
+END
+vfsettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfsettings.h
+END
+vfrandom.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfrandom.h
+END
+vfdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfdef.h
+END
+vfirpdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfirpdb.h
+END
+vfpower.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfpower.h
+END
+vfmessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfmessage.h
+END
+vfirp.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfirp.h
+END
+vfstack.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfstack.h
+END
+vfpacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfpacket.h
+END
+vfddi.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfddi.h
+END
+vfmacro.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfmacro.h
+END
+vfprint.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfprint.h
+END
+vfdeadlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfdeadlock.h
+END
+vfinit.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfinit.h
+END
+vfpnp.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfpnp.h
+END
+vfdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfdebug.h
+END
+vfwmi.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfwmi.h
+END
+vftriage.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vftriage.h
+END
+vfbugcheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/VERIFIER/vfbugcheck.h
+END

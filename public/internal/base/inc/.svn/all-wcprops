@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/internal/base/inc
+END
+pnpmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ntosdropce/!svn/ver/5/trunk/kernel/public/internal/base/inc/pnpmgr.h
+END
+profiles.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ntosdropce/!svn/ver/5/trunk/kernel/public/internal/base/inc/profiles.h
+END
+pnpsetup.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ntosdropce/!svn/ver/5/trunk/kernel/public/internal/base/inc/pnpsetup.h
+END
+ntwmi.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ntosdropce/!svn/ver/5/trunk/kernel/public/internal/base/inc/ntwmi.h
+END
+wmiumkm.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ntosdropce/!svn/ver/5/trunk/kernel/public/internal/base/inc/wmiumkm.h
+END
+ntperf.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ntosdropce/!svn/ver/5/trunk/kernel/public/internal/base/inc/ntperf.h
+END
+hdlsterm.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ntosdropce/!svn/ver/5/trunk/kernel/public/internal/base/inc/hdlsterm.h
+END
+atom.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ntosdropce/!svn/ver/5/trunk/kernel/public/internal/base/inc/atom.h
+END
+arc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/public/internal/base/inc/arc.h
+END
+seopaque.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ntosdropce/!svn/ver/5/trunk/kernel/public/internal/base/inc/seopaque.h
+END
+wow64t.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ntosdropce/!svn/ver/5/trunk/kernel/public/internal/base/inc/wow64t.h
+END
+sertlp.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ntosdropce/!svn/ver/5/trunk/kernel/public/internal/base/inc/sertlp.h
+END
+bugcodes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ntosdropce/!svn/ver/5/trunk/kernel/public/internal/base/inc/bugcodes.txt
+END
+zwapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ntosdropce/!svn/ver/5/trunk/kernel/public/internal/base/inc/zwapi.h
+END
+wow64tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ntosdropce/!svn/ver/5/trunk/kernel/public/internal/base/inc/wow64tls.h
+END
+hdlsblk.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ntosdropce/!svn/ver/5/trunk/kernel/public/internal/base/inc/hdlsblk.h
+END
+vdm.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/public/internal/base/inc/vdm.h
+END
+setupblk.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ntosdropce/!svn/ver/5/trunk/kernel/public/internal/base/inc/setupblk.h
+END
+elfkrnl.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ntosdropce/!svn/ver/5/trunk/kernel/public/internal/base/inc/elfkrnl.h
+END
+vdmtib.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ntosdropce/!svn/ver/5/trunk/kernel/public/internal/base/inc/vdmtib.inc
+END

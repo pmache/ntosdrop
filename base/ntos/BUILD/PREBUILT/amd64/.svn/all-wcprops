@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/BUILD/PREBUILT/amd64
+END
+NTOSKRNL.res
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/BUILD/PREBUILT/amd64/NTOSKRNL.res
+END
+HOTPATCH.obj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/BUILD/PREBUILT/amd64/HOTPATCH.obj
+END
+SDBAPINT.lib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/BUILD/PREBUILT/amd64/SDBAPINT.lib
+END
+BOOTVID.lib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/BUILD/PREBUILT/amd64/BOOTVID.lib
+END
+ntosarch.lib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/BUILD/PREBUILT/amd64/ntosarch.lib
+END
+HAL.lib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/BUILD/PREBUILT/amd64/HAL.lib
+END
+ntoswrk.lib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/BUILD/PREBUILT/amd64/ntoswrk.lib
+END
+KDCOM.lib
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/BUILD/PREBUILT/amd64/KDCOM.lib
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/i386
+END
+psvdm.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/i386/psvdm.c
+END
+psctx386.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/i386/psctx386.c
+END
+psldt.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/i386/psldt.c
+END

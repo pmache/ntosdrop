@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64
+END
+table.stb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/table.stb
+END
+profint.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/profint.asm
+END
+services.tab
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/services.tab
+END
+dpcint.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/dpcint.asm
+END
+ctxswap.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/ctxswap.asm
+END
+intsup.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/intsup.asm
+END
+runtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/runtime.c
+END
+cpuid.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/cpuid.asm
+END
+services.stb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/services.stb
+END
+kiamd64.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/kiamd64.h
+END
+apcuser.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/apcuser.c
+END
+miscs.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/miscs.asm
+END
+ipi.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/ipi.c
+END
+pat.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/pat.c
+END
+thredini.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/thredini.c
+END
+threadbg.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/threadbg.asm
+END
+intobj.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/intobj.c
+END
+intipi.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/intipi.asm
+END
+idle.asm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/idle.asm
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/misc.c
+END
+spinlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/spinlock.c
+END
+decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/decode.c
+END
+sysstubs.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/sysstubs.asm
+END
+flushtb.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/flushtb.c
+END
+apcint.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/apcint.asm
+END
+exceptn.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/exceptn.c
+END
+initkr.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/initkr.c
+END
+allproc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/allproc.c
+END
+clockint.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/clockint.asm
+END
+systable.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/systable.asm
+END
+start.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/start.asm
+END
+queuelock.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/queuelock.c
+END
+zero.asm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/zero.asm
+END
+procstat.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/procstat.asm
+END
+flush.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/flush.c
+END
+trap.asm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/trap.asm
+END
+callback.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/callback.c
+END
+callout.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ke/amd64/callout.asm
+END

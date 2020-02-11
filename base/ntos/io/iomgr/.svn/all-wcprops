@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr
+END
+dev2dos.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/dev2dos.c
+END
+lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/lock.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/misc.c
+END
+dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/dir.c
+END
+qsfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/qsfs.c
+END
+qsinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/qsinfo.c
+END
+iodata.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/iodata.c
+END
+parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/parse.c
+END
+read.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/read.c
+END
+ioinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/ioinit.c
+END
+qsquota.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/qsquota.c
+END
+objsup.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/objsup.c
+END
+loadunld.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/loadunld.c
+END
+iomgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/iomgr.h
+END
+fsctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/fsctrl.c
+END
+iosubs.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/iosubs.c
+END
+complete.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/complete.c
+END
+create.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/create.c
+END
+errorlog.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/errorlog.c
+END
+internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/internal.c
+END
+qsea.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/qsea.c
+END
+write.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/write.c
+END
+devctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/devctrl.c
+END
+cancelapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/cancelapi.c
+END
+open.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/io/iomgr/open.c
+END

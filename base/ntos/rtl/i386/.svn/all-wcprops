@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/i386
+END
+stkwalk.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/i386/stkwalk.asm
+END
+exdsptch.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/i386/exdsptch.c
+END
+largeint.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/i386/largeint.asm
+END
+context.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/i386/context.c
+END
+ntrtl386.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/i386/ntrtl386.h
+END
+xcptmisc.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/i386/xcptmisc.asm
+END
+debug2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/i386/debug2.asm
+END
+getcalr.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/i386/getcalr.c
+END
+movemem.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/i386/movemem.asm
+END
+debug3.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/i386/debug3.c
+END
+ioaccess.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/i386/ioaccess.asm
+END
+raise.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/i386/raise.asm
+END
+stringsp.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/i386/stringsp.asm
+END
+slist.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/i386/slist.asm
+END
+divlarge.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/i386/divlarge.c
+END

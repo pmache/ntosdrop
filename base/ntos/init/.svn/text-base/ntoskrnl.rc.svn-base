@@ -1,0 +1,27 @@
+#include <ntverkp.h>
+#include <ntverp.h>
+
+#define	VER_FILETYPE	VFT_APP
+#define	VER_FILESUBTYPE	VFT2_UNKNOWN
+#define VER_FILEDESCRIPTION_STR     "NT Kernel & System"
+#define VER_INTERNALNAME_STR        "ntkrnlmp.exe"
+
+1 BITMAP "boot.bmp"
+2 BITMAP "hiber.bmp"
+3 BITMAP "shutdown.bmp"
+4 BITMAP "srvbar.bmp"
+5 BITMAP "winlogo.bmp"
+6 BITMAP "top.bmp"
+7 BITMAP "bottom.bmp"
+8 BITMAP "probar.bmp"
+10 BITMAP "protext64.bmp"
+13 BITMAP "srvlogo.bmp"
+14 BITMAP "srvtop.bmp"
+15 BITMAP "srvbott.bmp"
+16 BITMAP "stslogo.bmp"
+17 BITMAP "hpclogo.bmp"
+
+#include "common.ver"
+
+LANGUAGE 0x9,0x1
+1 11 MSG000001.bin

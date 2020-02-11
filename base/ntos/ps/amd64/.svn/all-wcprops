@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/amd64
+END
+psvdm.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/amd64/psvdm.c
+END
+psctxamd64.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/amd64/psctxamd64.c
+END
+psctxwrap.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/amd64/psctxwrap.asm
+END
+psldt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ps/amd64/psldt.c
+END

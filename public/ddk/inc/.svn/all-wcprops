@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/ntosdropce/!svn/ver/5/trunk/kernel/public/ddk/inc
+END
+ntddscsi.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/ddk/inc/ntddscsi.h
+END
+mountdev.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/ddk/inc/mountdev.h
+END

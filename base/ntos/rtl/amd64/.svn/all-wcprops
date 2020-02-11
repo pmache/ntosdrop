@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/amd64
+END
+exdsptch.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/amd64/exdsptch.c
+END
+movemem.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/amd64/movemem.asm
+END
+raise.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/amd64/raise.c
+END
+chkstk.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/amd64/chkstk.asm
+END
+capture.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/amd64/capture.asm
+END
+misalign.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/amd64/misalign.c
+END
+context.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/amd64/context.c
+END
+stkwalk.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/amd64/stkwalk.c
+END
+xcptmisc.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/amd64/xcptmisc.asm
+END
+debugstb.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/amd64/debugstb.asm
+END
+ntrtlamd64.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/amd64/ntrtlamd64.h
+END
+slist.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/rtl/amd64/slist.asm
+END

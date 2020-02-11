@@ -1,0 +1,473 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ntosdropce/!svn/ver/19/trunk/kernel/public/sdk/inc
+END
+evntrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/evntrace.h
+END
+ntconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntconfig.h
+END
+callconv.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/callconv.inc
+END
+wdmguid.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/wdmguid.h
+END
+ntxcapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntxcapi.h
+END
+ntddnull.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntddnull.h
+END
+msaudite.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/msaudite.h
+END
+pshpack2.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/pshpack2.h
+END
+ntddft.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntddft.h
+END
+ntimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntimage.h
+END
+pshpack4.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/pshpack4.h
+END
+pshpack8.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/pshpack8.h
+END
+ntia64.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntia64.h
+END
+ntdskreg.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntdskreg.h
+END
+devguid.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/devguid.h
+END
+kxamd64.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/kxamd64.inc
+END
+mountmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/mountmgr.h
+END
+ntobapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntobapi.h
+END
+ntelfapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntelfapi.h
+END
+ntdddisk.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntdddisk.h
+END
+common.ver
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/19/trunk/kernel/public/sdk/inc/common.ver
+END
+diskguid.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/diskguid.h
+END
+specstrings.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/specstrings.h
+END
+winerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/winerror.h
+END
+nti386.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/nti386.h
+END
+ntioapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntioapi.h
+END
+ntnls.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntnls.h
+END
+nxi386.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/nxi386.h
+END
+bugcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/bugcodes.h
+END
+ntverp.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/19/trunk/kernel/public/sdk/inc/ntverp.h
+END
+ioevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ioevent.h
+END
+ntlsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntlsa.h
+END
+ntstrsafe.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/7/trunk/kernel/public/sdk/inc/ntstrsafe.h
+END
+ntstatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntstatus.h
+END
+wmidata.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/wmidata.h
+END
+strsafe.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/strsafe.h
+END
+ntdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntdef.h
+END
+safeboot.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/safeboot.h
+END
+devioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/devioctl.h
+END
+ntexapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntexapi.h
+END
+ntddmup.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntddmup.h
+END
+wdbgexts.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/wdbgexts.h
+END
+ntcsrmsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntcsrmsg.h
+END
+align.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/align.h
+END
+nt.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/nt.h
+END
+ntrtlpath.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntrtlpath.h
+END
+ntddstor.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntddstor.h
+END
+ntiologc.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntiologc.h
+END
+ntregapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntregapi.h
+END
+mce.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/mce.h
+END
+pshpack1.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/pshpack1.h
+END
+basetsd.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/basetsd.h
+END
+pshpck16.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/pshpck16.h
+END
+ntiolog.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntiolog.h
+END
+initguid.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/initguid.h
+END
+nturtl.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/nturtl.h
+END
+wmiguid.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/wmiguid.h
+END
+guiddef.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/guiddef.h
+END
+ntlpcapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntlpcapi.h
+END
+cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/cfg.h
+END
+ntrtl.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntrtl.h
+END
+pebteb.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/pebteb.h
+END
+poppack.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/poppack.h
+END
+nxamd64.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/nxamd64.h
+END
+ntpnpapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntpnpapi.h
+END
+ntamd64.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntamd64.h
+END
+ntpsapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntpsapi.h
+END
+triage.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/triage.h
+END
+ntmmapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntmmapi.h
+END
+ntldr.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntldr.h
+END
+ntpoapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntpoapi.h
+END
+ntkeapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntkeapi.h
+END
+macamd64.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/macamd64.inc
+END
+wmistr.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/wmistr.h
+END
+ks386.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ks386.inc
+END
+ntrtlstringandbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntrtlstringandbuffer.h
+END
+ntseapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ntseapi.h
+END
+ksamd64.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/ksamd64.inc
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ex/i386
+END
+splocks.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ex/i386/splocks.asm
+END
+intrlfst.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ex/i386/intrlfst.asm
+END
+intrlock.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/ex/i386/intrlock.asm
+END

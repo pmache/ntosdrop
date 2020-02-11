@@ -1,0 +1,45 @@
+MK      nmake $*
+MAKE    build $*
+BLD     build $*
+BZ      build -z $*
+COFF    link $*
+LINK32  link $*
+USE     net use $*
+..      cd ..\$1
+UP      cd ..
+...     cd ..\..
+....    cd ..\..\..
+HERE    explorer .
+NTOS    cd /d %BASEDIR%\base\ntos
+INIT    cd /d %BASEDIR%\base\ntos\init
+BLDDIR  cd /d %BASEDIR%\base\ntos\build
+EX      cd /d %BASEDIR%\base\ntos\ex
+KE      cd /d %BASEDIR%\base\ntos\ke
+OB      cd /d %BASEDIR%\base\ntos\ob
+RTL     cd /d %BASEDIR%\base\ntos\rtl
+CC      cd /d %BASEDIR%\base\ntos\cache
+CM      cd /d %BASEDIR%\base\ntos\config
+DBGK    cd /d %BASEDIR%\base\ntos\dbgk
+FSRTL   cd /d %BASEDIR%\base\ntos\fsrtl
+FSTUB   cd /d %BASEDIR%\base\ntos\fstub
+IO      cd /d %BASEDIR%\base\ntos\IO
+IOMGR   cd /d %BASEDIR%\base\ntos\IO\iomgr
+PNP     cd /d %BASEDIR%\base\ntos\io\pnpmgr
+LPC     cd /d %BASEDIR%\base\ntos\lpc
+MM      cd /d %BASEDIR%\base\ntos\mm
+PERF    cd /d %BASEDIR%\base\ntos\perf
+PS      cd /d %BASEDIR%\base\ntos\ps
+RAW     cd /d %BASEDIR%\base\ntos\raw
+SE      cd /d %BASEDIR%\base\ntos\se
+WMI     cd /d %BASEDIR%\base\ntos\wmi
+VF      cd /d %BASEDIR%\base\ntos\verifier
+VDM     cd /d %BASEDIR%\base\ntos\vdm
+PUB     cd /d %BASEDIR%\public
+SDK     cd /d %BASEDIR%\public\sdk\inc
+INC     cd /d %BASEDIR%\base\ntos\inc
+CLEAN   cd /d %BASEDIR% && call clean
+RELEASE cd /d %BASEDIR% && call build
+DDK     cd /d %BASEDIR%\public\ddk\inc
+HALKIT  cd /d %BASEDIR%\public\halkit\inc
+HALS    cd /d %BASEDIR%\hals\x86
+BINC	cd /d %BASEDIR%\base\inc

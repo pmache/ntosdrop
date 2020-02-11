@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/crt
+END
+stdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/crt/stdio.h
+END
+tchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/crt/tchar.h
+END
+ctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/crt/ctype.h
+END
+wchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/crt/wchar.h
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/crt/string.h
+END
+stdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/crt/stdlib.h
+END
+stdarg.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/crt/stdarg.h
+END
+excpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/public/sdk/inc/crt/excpt.h
+END

@@ -1,0 +1,34 @@
+10
+
+dir
+23
+http://razzle.ath.cx/ntosdropce/trunk/kernel/base
+http://razzle.ath.cx/ntosdropce
+
+
+
+2010-06-25T17:05:50.156250Z
+23
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b50d456f-d865-4d4e-9151-ba099f08fe92
+
+inc
+dir
+
+ntos
+dir
+

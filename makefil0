@@ -1,0 +1,9 @@
+all: build.bat
+     echo BUILDMSG2: NTBUILD: Making NT Kernel for %wrkarch%.
+     echo BUILDMSG2: NTBUILD: Build: %lhMajorVersion%.%lhMinorVersion%.%lhBuildTag%.
+     echo BUILDMSG2: NTBUILD: Build: Calling nmake for project: ntoskrnl
+     echo BUILDMSG2: NTBUILD: Build: Alternate Project Name: %ProjectName% %wrkarch% Free.
+     cd base\ntos\init
+     touch initos.c
+     cd ..
+     nmake -nologo %wrkarch%=

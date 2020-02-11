@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ntosdropce/!svn/ver/19/trunk/kernel/base/ntos/init
+END
+bottom.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/19/trunk/kernel/base/ntos/init/bottom.bmp
+END
+ntkrnlmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/init/ntkrnlmp.c
+END
+ntoskrnl.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/10/trunk/kernel/base/ntos/init/ntoskrnl.c
+END
+amd64def.src
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/init/amd64def.src
+END
+ntoskrnl.src
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/init/ntoskrnl.src
+END
+hiber.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/19/trunk/kernel/base/ntos/init/hiber.bmp
+END
+hello.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/10/trunk/kernel/base/ntos/init/hello.c
+END
+boot.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/19/trunk/kernel/base/ntos/init/boot.bmp
+END
+initos.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/18/trunk/kernel/base/ntos/init/initos.c
+END
+top.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/19/trunk/kernel/base/ntos/init/top.bmp
+END
+shutdown.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/19/trunk/kernel/base/ntos/init/shutdown.bmp
+END
+w32kexps.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ntosdropce/!svn/ver/10/trunk/kernel/base/ntos/init/w32kexps.txt
+END
+protext64.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/19/trunk/kernel/base/ntos/init/protext64.bmp
+END
+ntoskrnl.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/19/trunk/kernel/base/ntos/init/ntoskrnl.rc
+END
+i386def.src
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/5/trunk/kernel/base/ntos/init/i386def.src
+END
+srvbar.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/19/trunk/kernel/base/ntos/init/srvbar.bmp
+END
+stslogo.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/19/trunk/kernel/base/ntos/init/stslogo.bmp
+END
+srvtop.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/19/trunk/kernel/base/ntos/init/srvtop.bmp
+END
+srvlogo.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/19/trunk/kernel/base/ntos/init/srvlogo.bmp
+END
+srvbott.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/19/trunk/kernel/base/ntos/init/srvbott.bmp
+END
+msg000001.bin
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ntosdropce/!svn/ver/19/trunk/kernel/base/ntos/init/msg000001.bin
+END
+probar.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ntosdropce/!svn/ver/19/trunk/kernel/base/ntos/init/probar.bmp
+END
+hpclogo.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/19/trunk/kernel/base/ntos/init/hpclogo.bmp
+END
+winlogo.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/19/trunk/kernel/base/ntos/init/winlogo.bmp
+END

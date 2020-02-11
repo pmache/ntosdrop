@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/ntosdropce/!svn/ver/22/trunk/kernel/tools/x86
+END
+capicom.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/22/trunk/kernel/tools/x86/capicom.dll
+END
+nmake.exe
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ntosdropce/!svn/ver/5/trunk/kernel/tools/x86/nmake.exe
+END
+cvtres.exe
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ntosdropce/!svn/ver/5/trunk/kernel/tools/x86/cvtres.exe
+END
+ml.exe
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ntosdropce/!svn/ver/5/trunk/kernel/tools/x86/ml.exe
+END
+rcdll.dll
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ntosdropce/!svn/ver/5/trunk/kernel/tools/x86/rcdll.dll
+END
+mercclient.dll
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ntosdropce/!svn/ver/22/trunk/kernel/tools/x86/mercclient.dll
+END
+lhBuildTag.exe
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ntosdropce/!svn/ver/7/trunk/kernel/tools/x86/lhBuildTag.exe
+END
+msvcp71.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/6/trunk/kernel/tools/x86/msvcp71.dll
+END
+cl.exe
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ntosdropce/!svn/ver/5/trunk/kernel/tools/x86/cl.exe
+END
+msvcr70.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/tools/x86/msvcr70.dll
+END
+whqlcab.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ntosdropce/!svn/ver/22/trunk/kernel/tools/x86/whqlcab.dll
+END
+msvcr71.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/6/trunk/kernel/tools/x86/msvcr71.dll
+END
+FileSignatureInfoLib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ntosdropce/!svn/ver/22/trunk/kernel/tools/x86/FileSignatureInfoLib.dll
+END
+build.exe
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ntosdropce/!svn/ver/6/trunk/kernel/tools/x86/build.exe
+END
+rc.exe
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ntosdropce/!svn/ver/5/trunk/kernel/tools/x86/rc.exe
+END
+mspdb70.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/tools/x86/mspdb70.dll
+END
+mspdb71.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/tools/x86/mspdb71.dll
+END
+PEINFO.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/22/trunk/kernel/tools/x86/PEINFO.dll
+END
+checktoolarch.bat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ntosdropce/!svn/ver/5/trunk/kernel/tools/x86/checktoolarch.bat
+END
+link.exe
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/5/trunk/kernel/tools/x86/link.exe
+END
+peinfo.tlb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/22/trunk/kernel/tools/x86/peinfo.tlb
+END
+msobj71.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ntosdropce/!svn/ver/5/trunk/kernel/tools/x86/msobj71.dll
+END
+TOUCH.EXE
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ntosdropce/!svn/ver/6/trunk/kernel/tools/x86/TOUCH.EXE
+END
+c1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ntosdropce/!svn/ver/5/trunk/kernel/tools/x86/c1.dll
+END
+c2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ntosdropce/!svn/ver/5/trunk/kernel/tools/x86/c2.dll
+END
+lib.exe
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ntosdropce/!svn/ver/5/trunk/kernel/tools/x86/lib.exe
+END
+wfp.dat
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ntosdropce/!svn/ver/22/trunk/kernel/tools/x86/wfp.dat
+END
+ALIAS.EXE
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ntosdropce/!svn/ver/12/trunk/kernel/tools/x86/ALIAS.EXE
+END
+MsComCtl.ocx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/22/trunk/kernel/tools/x86/MsComCtl.ocx
+END
+c1p.dll
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ntosdropce/!svn/ver/5/trunk/kernel/tools/x86/c1p.dll
+END
+signtool.exe
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/22/trunk/kernel/tools/x86/signtool.exe
+END
+mc.exe
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ntosdropce/!svn/ver/5/trunk/kernel/tools/x86/mc.exe
+END
+MsComCt2.ocx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ntosdropce/!svn/ver/22/trunk/kernel/tools/x86/MsComCt2.ocx
+END
