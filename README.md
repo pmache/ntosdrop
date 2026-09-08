@@ -1,29 +1,58 @@
-# ntosdrop
+# NTOSDrop — historical NT research reference
 
-![img](https://i.imgur.com/Ci8GtBI.jpg)
+> **Status: Reference / Historical research tree**
+>
+> To repo nie jest aktywnym produktem portfolio. Jest zachowane jako materiał badawczy wokół Windows Research Kernel / Server 2003-era NT.
 
-An implementation of NT research kernel, compatibile only with Windows Server 2003 SP1
+## Co to jest
 
-Made posibble by fellow users of betaarchive forum. Uploaded for archive reason and possible future work.
+Historyczny opis przedstawia `ntosdrop` jako zmodyfikowany kernel badawczy zgodny z Windows Server 2003 SP1, z eksperymentalnymi zmianami dotyczącymi m.in. optymalizacji, debugowania, monitoringu kernela i dodatkowych warstw kompatybilności.
 
-GNU GPL v3.
+## Provenance
 
-### What is NTOSDrop?
+Repo bazuje na istniejącym materiale WRK/NT i pracach społecznościowych. Nie należy przedstawiać go jako oryginalnego clean-room kernela ani przypisywać właścicielowi tego repo autorstwa bazowego kodu NT.
 
-Custom WRK kernel w/ lots of extra features:
-This is totally portable, you can even run it from a USB drive. ;)
+## Do czego służy to repo
 
-- Speed optimization
-- Version customization
-- Fixed bugs
-- NT Kernel Monitor
-- Windows Startup Progress Bar
-- Enhanced debugging
-- Enhanced Startup
-- Hiroshima/xe XBOX application layer (XBOX 1 games).
+- analiza starego NT/WRK,
+- porównania architektury kernela,
+- badania nad starym toolchainem Microsoft,
+- reprodukcja historycznych buildów,
+- zachowanie zmian społecznościowych i eksperymentalnych patchy.
 
-You just check out WIN_RELEASE, and hit build.cmd, that simple, it uses VC2003 compilers. :P
+## Build feasibility
 
-But the boot.ini thing also works, i recommend personally this:
-Code:
-multi(0)disk(0)rdisk(0)partition(1)\WINDOWS="NTOSdrop Community Edition" /NoExecute=OptOut /KERNEL=wrkx86.exe /debug /debugport=com1 /baudrate=115200 /ntkm /sos
+**Status: Historical / legacy toolchain required**
+
+Historyczny README wskazuje na build przez `build.cmd` i stare kompilatory Visual C++ 2003. Nie deklarujemy współczesnego wsparcia bez osobnej reprodukcji.
+
+### Reference Gate NTD-R1 — Reproducible build
+
+**PASS:** dokładna wersja źródeł, toolchainu i środowiska pozwala powtórzyć build w izolowanej VM.  
+**FAIL:** README sugeruje, że wystarczy „uruchomić build” na dowolnym współczesnym Windows.
+
+## Zakres historyczny
+
+W źródłowej linii deklarowano m.in.:
+- speed optimization,
+- version customization,
+- bug fixes,
+- NT Kernel Monitor,
+- enhanced debugging/startup,
+- dodatkowe eksperymentalne warstwy.
+
+Te elementy są materiałem do analizy, nie roadmapą aktywnego produktu.
+
+## Legal / licensing note
+
+Repo należy traktować ostrożnie z punktu widzenia provenance. Wszelkie użycie kodu zależy od faktycznego pochodzenia poszczególnych plików i ich licencji. Sam opis „GPLv3” nie powinien być interpretowany jako automatyczne rozwiązanie praw do kodu pochodzącego z innych źródeł.
+
+## Maintenance policy
+
+Dozwolone:
+- dokumentacja provenance,
+- notatki reprodukcyjne,
+- metadane wersji/toolchainu,
+- zachowanie historycznych patchy.
+
+Nie rozwijamy tego jako nowego kernela NT i nie przenosimy kodu do aktywnych projektów bez osobnej analizy prawnej i architektonicznej.
